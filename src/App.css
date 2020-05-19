@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+}
+
+.body-app{
+    width:450px;
+    height: 500px;
+    border-radius: 10px;
+}
