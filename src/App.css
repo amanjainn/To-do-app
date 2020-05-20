@@ -3,7 +3,21 @@ body{
 }
 
 .body-app{
-    width:450px;
-    height: 500px;
+    width:750px;
+    height: 700px;
     border-radius: 10px;
+}
+
+.card-list{
+    position: relative;
+    height: fit-content;
+    padding: 10px;
+}
+
+.trash-icon{
+  color: #171e2f;
+  position: absolute;
+  right: 10px;
+  margin: 0 5px;
+  cursor: pointer;
 }
